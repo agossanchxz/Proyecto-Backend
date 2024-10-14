@@ -1,0 +1,29 @@
+[
+  [
+    {
+      "id": 1,
+      "title": "Yogurt",
+      "description": "La serenisima",
+      "code": "abc444",
+      "price": 1.500,
+      "img": "sin imagen",
+      "stock": 80
+    },
+    {
+      "id": 2,
+      "title": "Leche",
+      "description": "Arcor",
+      "code": "pmr333",
+      "price": 1.500,
+      "img": "sin imagen",
+      "stock": 60
+    },
+    {
+      "id": 3,
+      "title": "Fideos",
+      "description": "Marolio",
+      "code": "ouf678",
+      "price": 2.500,
+      "img": "sin imagen",
+      "stock": 150
+    },}
